@@ -1,0 +1,22 @@
+Desjardins Pricing: 5 baskets and 61 names. We sent them to NY, Paris and Hongkong trader. Our trader will call them and make sure volatilities are all good. Then we sent the name without duplicate to Alex.
+
+Pricing: For Bony, MXN, we priced with -30% hire act. But delta is 72%.
+
+Strategy: Bottom New Buyer works. It has 0.91 sharpe ratio. It is in line with Oversold rational. But it is not as good as Share_purch_sold
+
+Pricing: ECH underlying, 95% KG, Cap upside, Reoffer 98.5%, Size 2 million. ECH is illiquid. Market Cap is 446 million. Average volume 414928. 
+
+Pricing: Andbank asks for two refresh .1. Reoffer 96.5% and solve for gearing. We get 108%. 2. Capital pretect 96%, gearing 125% and solve for reoffer. We get them 96.6%
+
+Our trader Email: LD-M-EDA2-US Stock Derivatives
+Paris Trader Email: LD-M-SED-ACTION, LD-M-EDA21 STOCK Vol Trading
+Hong Kong Trader Email: LD-M-HONG Kong- Stock- Derivative- Trading
+
+For the oliver_1, Client is INVEX. We have 1% SC, 2% CC. We get 2.3125% Coupon which is 9.25% per year. Reoffer 99%. Product is reverse convertible autocall. Knock In barrier is 85%. Because of illiquidity, we take 3% for auto call spread and 4% for put down in spread. 
+
+Pricing: ECH doesn't work. Product is 95% KG. Cap upside. Note: It is knock in digit at 100%. Reoffer is 98.5%, CC equal to 1%, 2y maturity. I get Cap at 6.5%. Spread is 3% because of illiquidity. ECH is chile ETF. It is not liquid.
+
+Python Coding: We could use conn.execute("") and conn.commit to edit the database.
+SQL Syntax: Drop table table name.
+Create table tablename (variable name variable type).
+Insert into table name (variable name) select star from table name.
